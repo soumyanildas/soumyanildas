@@ -1,4 +1,6 @@
-### Hi there 👋
+### Nomoshkar 👋
+
+I'm <span style="color:#ff294c">Soumyanil Das</span>, primarily a Front End Developer from Calcutta, India who likes to mix code with creative, interactive and modern designs. I work across the full JavaScript stack as a freelancer, and as a full time frontend developer @Capital Numbers. Outside of work you can find me playing on the PS4 or chilling to music on Spotify. 
 
 <!--
 **soumyanildas/soumyanildas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
